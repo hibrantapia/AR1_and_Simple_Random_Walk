@@ -13,19 +13,18 @@
 <p align="center"> <img src = "/Graphs/11.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/12.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/13.png" width = 600> </p>
-
-
+<p align="center"> <img src = "/Graphs/14.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/15.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/16.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/17.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/18.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/19.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/20.png" width = 600> </p>
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file, containing the resource code to resolve any 8 puzzle problem (3x3).
+1. In this simple GitHub Repository, I uploaded 1 Jupyter Notebook file (.ipynb), containing the resource code and full explanation of this beautiful graphs.
 2. You don't need anything special to run the programs.
-
-<h2 align="left">Extra Stuff</h3>
-
-- You can modify the code in line 4 to modify the initial_state = (4, 3, 2, 1, 5, 6, 7, 8, 0) to any state you want.
-- You can modify the code in line 7 to modify the goal_state = (1, 2, 3, 4, 5, 6, 7, 8, 0) to any state you want.
-
 
 #### Check out my social stuff for more:
 
