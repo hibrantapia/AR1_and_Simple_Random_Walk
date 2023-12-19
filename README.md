@@ -1,6 +1,19 @@
 ## AR1 and Simple Random Walk
 
 <p align="center"> <img src = "/Graphs/1.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/2.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/3.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/4.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/5.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/6.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/7.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/8.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/9.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/10.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/11.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/12.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/13.png" width = 600> </p>
+
 
 
 <h2 align="left">Recipe</h2>
