@@ -24,7 +24,7 @@
 <h2 align="left">Recipe</h2>
 
 1. In this simple GitHub Repository, I uploaded 1 Jupyter Notebook file (.ipynb), containing the resource code and full explanation of this beautiful graphs.
-2. You don't need anything special to run the programs.
+2. You don't need anything special to run the program.
 
 #### Check out my social stuff for more:
 
