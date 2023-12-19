@@ -1,12 +1,7 @@
 ## AR1 and Simple Random Walk
 
-#### College Exercise using SimpleAI.
+<p align="center"> <img src = "/Graphs/1.png" width = 450> </p>
 
-<h3 align="center">The 8 Puzzle Problem</h3>
-<p align="center"> <img src = "/Extra_Stuff/8_puzzle.png" width = 450> </p>
-
-<h2 align="center">Running the Program</h3>
-<p align="center"> <img src = "/Extra_Stuff/example1.png" width = 550> </p>
 
 <h2 align="left">Recipe</h2>
 
