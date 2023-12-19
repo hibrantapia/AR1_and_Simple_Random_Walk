@@ -1,6 +1,6 @@
 ## AR1 and Simple Random Walk
 
-<p align="center"> <img src = "/Graphs/1.png" width = 450> </p>
+<p align="center"> <img src = "/Graphs/1.png" width = 600> </p>
 
 
 <h2 align="left">Recipe</h2>
