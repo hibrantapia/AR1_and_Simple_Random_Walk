@@ -1,4 +1,4 @@
-## AR1 and Simple Random Walk
+## Auto-regressive Model of Order 1 and Simple Random Walk
 
 <p align="center"> <img src = "/Graphs/1.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/2.png" width = 600> </p>
